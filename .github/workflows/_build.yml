@@ -1,5 +1,5 @@
 # .github/workflows/deploy.yml — POC stage, end of segment 6
-name: Deploy
+name: Build
 
 on:
   push:
